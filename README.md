@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer Intern
 --------------------
 
-Hi, I'm Thandi Mdluli, a Data Engineer intern at Capaciti with a strong passion for data engineering and data analysis. I'm currently learning and applying SQL, Power BI, and Python to build robust data pipelines and clean data for insights. My focus is on mastering ETL processes and data warehouses to help organizations make data-driven decisions. I'm always eager to collaborate, learn, and solve real-world problems using data. Welcome to my GitHub, where I share my projects and resources along my journey in the data field!
+Hi, I'm Thandi Mdluli, a Data Engineer intern at Capaciti with a strong passion for data engineering and data analysis. I'm currently learning and applying SQL, Power BI, and Python to build robust data pipelines and clean data for insights. My focus is on mastering ETL processes and data warehouses to help organizations make data-driven decisions. I'm always eager to collaborate, learn, and solve real-world problems using data, continous learning motivates me. Welcome to my GitHub, where I share my projects and resources along my journey in the data field!
 
 * 🌍  I'm based in Johannesburg
 * ✉️  You can contact me at [thandymdluli21@gmail.com](mailto:thandymdluli21@gmail.com)
